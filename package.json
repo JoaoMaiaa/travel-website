@@ -1,0 +1,15 @@
+{
+  "name": "travel-website",
+  "version": "1.0.0",
+  "description": "Fazendo um website de curiosidades sobre viagens",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Maia",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.9.3",
+    "sass": "^1.50.0"
+  }
+}

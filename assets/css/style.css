@@ -1,0 +1,12 @@
+@import '../../node_modules/bulma/css/bulma-rtl.min.css';
+* {
+  font-family: "Open Sans", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Fira Sans", sans-serif;
+}
+
+/*# sourceMappingURL=style.css.map */
