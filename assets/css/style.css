@@ -13,4 +13,9 @@ section img {
   border-radius: 10px;
 }
 
+.wave {
+  position: absolute !important;
+  bottom: 0;
+}
+
 /*# sourceMappingURL=style.css.map */
