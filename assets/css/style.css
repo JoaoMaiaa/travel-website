@@ -18,4 +18,17 @@ section img {
   bottom: 0;
 }
 
+.field input {
+  border-radius: 0;
+}
+
+.field .button {
+  border-radius: 0;
+}
+
+.field input:focus {
+  border-color: #000 !important;
+  box-shadow: 0 0 0 0.125em rgba(0, 0, 0, 0.25) !important;
+}
+
 /*# sourceMappingURL=style.css.map */
